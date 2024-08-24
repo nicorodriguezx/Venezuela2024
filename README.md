@@ -20,7 +20,7 @@ A raíz de la disputa por los resultados en la elección presidencial de Venezue
 - matplotlib (para la creación de gráficos)
 
 ## Instrucciones
-Subir las imágenes de las actas de la elección a una carpeta en Google Drive. Al día de hoy la mejor fuente es https://resultadosconvzla.com/ que dice tener cerca del 81% de las actas, pero requeriría descargar manualmente cada una (si alguien sabe dónde están todas disponibles en un .rar, avisen). La otra opción es esperar a que https://www.cne.gob.ve/ (actualmente offline) los publique.
+Subir las imágenes de las actas de la elección a una carpeta en Google Drive. ~~Al día de hoy la mejor fuente es https://resultadosconvzla.com/ que dice tener cerca del 81% de las actas, pero requeriría descargar manualmente cada una (si alguien sabe dónde están todas disponibles en un .rar, avisen). La otra opción es esperar a que https://www.cne.gob.ve/ (actualmente offline) los publique.~~ UPDATE: Las mismas pueden descargarse con: https://drive.google.com/drive/folders/1S0Sz-3x0Jn9VL0_HK_-sDDSY_oE6mclH (créditos a @mis2centavos y @xaixi en X/Twitter).
 
 Reemplazar en el código el directorio '/content/drive/My Drive/Actas' con la ruta a la carpeta propia.
 
@@ -55,7 +55,7 @@ In light of the dispute over the results in the Venezuelan presidential election
 - matplotlib (for graph creation)
 
 ## Instructions
-Upload the images of the election records to a folder in Google Drive. Currently, the best source is https://resultadosconvzla.com/, which claims to have around 81% of the records but would require manually downloading each one (if anyone knows where they are all available in a .rar, let me know). Another option is to wait for https://www.cne.gob.ve/ (currently offline) to publish them.
+Upload the images of the election records to a folder in Google Drive. ~~Currently, the best source is https://resultadosconvzla.com/, which claims to have around 81% of the records but would require manually downloading each one (if anyone knows where they are all available in a .rar, let me know). Another option is to wait for https://www.cne.gob.ve/ (currently offline) to publish them.~~ UPDATE: They can be downloaded from: https://drive.google.com/drive/folders/1S0Sz-3x0Jn9VL0_HK_-sDDSY_oE6mclH (credits to @mis2centavos and @xaixi on X/Twitter).
 
 Replace the directory '/content/drive/My Drive/Actas' in the code with the path to your own folder.
 
